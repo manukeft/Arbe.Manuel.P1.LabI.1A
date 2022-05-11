@@ -1,0 +1,63 @@
+# depslib dependency file v1.0
+1652273066 source:c:\users\manu\documents\proyectos programacion\p1.laboi\p1\p1\fecha.c
+	"fecha.h"
+
+1652273685 c:\users\manu\documents\proyectos programacion\p1.laboi\p1\p1\fecha.h
+
+1652274639 source:c:\users\manu\documents\proyectos programacion\p1.laboi\p1\p1\tipo.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"tipo.h"
+
+1652274651 c:\users\manu\documents\proyectos programacion\p1.laboi\p1\p1\tipo.h
+
+1652275941 source:c:\users\manu\documents\proyectos programacion\p1.laboi\p1\p1\color.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"color.h"
+
+1652274650 c:\users\manu\documents\proyectos programacion\p1.laboi\p1\p1\color.h
+
+1652282403 source:c:\users\manu\documents\proyectos programacion\p1.laboi\p1\p1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"mascota.h"
+	"fecha.h"
+	"tipo.h"
+	"color.h"
+	"servicio.h"
+	"trabajo.h"
+
+1652278252 c:\users\manu\documents\proyectos programacion\p1.laboi\p1\p1\mascota.h
+	"tipo.h"
+	"color.h"
+
+1652279441 source:c:\users\manu\documents\proyectos programacion\p1.laboi\p1\p1\mascota.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"mascota.h"
+
+1652279841 source:c:\users\manu\documents\proyectos programacion\p1.laboi\p1\p1\servicio.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"servicio.h"
+
+1652279868 c:\users\manu\documents\proyectos programacion\p1.laboi\p1\p1\servicio.h
+
+1652282250 c:\users\manu\documents\proyectos programacion\p1.laboi\p1\p1\trabajo.h
+	"mascota.h"
+	"fecha.h"
+	"tipo.h"
+	"color.h"
+	"servicio.h"
+
+1652282475 source:c:\users\manu\documents\proyectos programacion\p1.laboi\p1\p1\trabajo.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"trabajo.h"
+
